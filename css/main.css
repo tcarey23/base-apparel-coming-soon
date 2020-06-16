@@ -2,6 +2,7 @@
 
 html {
 	font-size: 16px;
+	background-color: #fff9f9;
 }
 
 /******* Mobile Styles *******/
@@ -14,3 +15,27 @@ header img{
 	width: 33%;
 }
 
+/***body***/
+
+h1{
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: normal;
+	text-align: center;
+	font-size: 65px;
+	margin: 65px 0 0 0;
+}
+
+h1 span{
+	font-family: 'Josefin Sans', sans-serif;
+	color: #caa0a4;
+	font-weight: 300;
+}
+
+p{
+	color: #caa0a4;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 16px;
+	text-align: center;
+	margin: 20px;
+
+}
